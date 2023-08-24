@@ -1,0 +1,5 @@
+monitor:
+  map_view_size: 50.0
+  map_img: "map/campus/campus_map.png"
+  meter_per_pixel: 0.1
+  depth_max: 30.0

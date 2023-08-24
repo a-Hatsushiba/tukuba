@@ -1,0 +1,2 @@
+Invoking command in '/home/akari/workspace/ros2_ws/src/rs_monitor2023/build/rs_monitor2023': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /home/akari/workspace/ros2_ws/src/rs_monitor2023 -DCMAKE_INSTALL_PREFIX=/home/akari/workspace/ros2_ws/src/rs_monitor2023/install/rs_monitor2023
+Invoked command in '/home/akari/workspace/ros2_ws/src/rs_monitor2023/build/rs_monitor2023' returned '1': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /home/akari/workspace/ros2_ws/src/rs_monitor2023 -DCMAKE_INSTALL_PREFIX=/home/akari/workspace/ros2_ws/src/rs_monitor2023/install/rs_monitor2023
